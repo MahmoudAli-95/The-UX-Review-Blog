@@ -34,4 +34,4 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/the-ux-review.git](https://github.com/your-username/the-ux-review.git)
+   git clone [https://github.com/MahmoudAli-95/the-ux-review.git](https://github.com/MahmoudAli-95/the-ux-review.git)
